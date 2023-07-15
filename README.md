@@ -1,4 +1,6 @@
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=silence1018" /> </div>
