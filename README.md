@@ -1,4 +1,9 @@
 <!--START_SECTION:waka-->
+
+```txt
+HTML   3 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <div align="center" title="统计卡片"> 
