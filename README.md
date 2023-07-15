@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**silence1018/silence1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=silence1018" /> </div>
+
+<div align="center" title="星徽"> 
+  <img src="https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange"/> 
+</div>
+
+<div align="center" title="统计卡片"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=silence1018&show=reviews&show_icons=true&theme=tokyonight"/> 
+</div>
+<div align="center" title="使用语言统计">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silence1018"/> 
+</div>
+<div align="center" title="连续打卡记录"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silence1018" /> 
+</div>
+<div align="center" title="活动记录"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silence1018&theme=xcode" /> 
+</div>
+
+ 
+
