@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center" title="统计卡片"> 
   <img src="https://github-readme-stats.vercel.app/api?username=silence1018&show=reviews&show_icons=true&theme=tokyonight"/> 
 </div>
