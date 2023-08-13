@@ -53,13 +53,17 @@ Sunday                   300 commits         █████████░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     48 mins             ██████████████████████░░░   86.27 % 
+Vue.js                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +83,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/silence1018/silence1018/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2023 00:38:40 UTC
+ Last Updated on 13/08/2023 00:41:33 UTC
 <!--END_SECTION:waka-->
  
 
